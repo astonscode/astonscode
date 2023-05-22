@@ -1,4 +1,18 @@
-### Hi there 👋
+# Aston
+> info - astonscode.github.io/vertical/index.js
+
+```js
+let aston = {
+  fucks: 0,
+  cares: false,
+  feelings: function() {
+    return false;
+    window.close()
+  }
+}
+```
+
+
 
 <!--
 **astonscode/astonscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
