@@ -1,6 +1,5 @@
-# Aston
+# about me
 > info - astonscode.github.io/vertical/index.js
-
 ```js
 let aston = {
   fucks: 0,
