@@ -1,5 +1,5 @@
 # about me
-> info - astonscode.github.io/vertical/index.js
+> info - [astonscode.github.io/projects/vertical/index.js](https://astonscode.github.io/projects/vertical/contents/index.js)
 ```js
 let aston = {
   fucks: 0,
