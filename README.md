@@ -1,10 +1,10 @@
 # about me
-> info - [astonscode.github.io/projects/vertical/index.js](https://astonscode.github.io/projects/vertical/contents/index.js)
+> info
 ```js
 let aston = {
   fucks: 0,
   cares: false,
-  feelings: function() {
+  feelings() {
     return false;
     window.close()
   }
