@@ -1,5 +1,5 @@
 # about me
-> info
+> most unserious coder of all time, i do not gaf about your fancy ass readmes
 ```js
 let aston = {
   fucks: 0,
