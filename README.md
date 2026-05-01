@@ -1,17 +1,7 @@
 # about me
-> most unserious coder of all time, i do not gaf about your fancy ass readmes
-```js
-let aston = {
-  fucks: 0,
-  cares: false,
-  feelings() {
-    return false;
-    window.close()
-  }
-}
-```
-
-
+> computer science student focused on software development and cybersecurity.
+> interested in system design and building practical apps.
+> learning typescript and angular. 
 
 <!--
 **astonscode/astonscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
